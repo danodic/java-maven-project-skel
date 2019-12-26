@@ -1,0 +1,1 @@
+Git doesn`t like empty folders. After checking the project out, delete this.
